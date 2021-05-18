@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy & Fast Optimization\n"
+"POT-Creation-Date: 2018-03-18 21:23+0300\n"
+"PO-Revision-Date: 2018-03-18 21:24+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ../admin\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: easy-fast-optimization-lang\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.php:13
+msgid "Easy & Fast Optimization - Settings"
+msgstr ""
+
+#: admin.php:22 index.php:13
+msgid "Easy & Fast Optimization"
+msgstr ""
+
+#: admin.php:32
+msgid "Enable Wordpress Optimization with One Click."
+msgstr ""
+
+#: admin.php:38
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin.php:48
+msgid ""
+"Activate Advanced Settings. <span style='color:red'>(All settings will be "
+"reset.)</span>"
+msgstr ""
+
+#: admin.php:59
+msgid ""
+"Enable WP-Admin Optimization. <span style='color:red'>(Use With Caution!)</"
+"span>"
+msgstr ""
+
+#: admin.php:71
+msgid "Enable HTML Minify."
+msgstr ""
+
+#: admin.php:83
+msgid "Disable comment cookies."
+msgstr ""
+
+#: admin.php:95
+msgid "Disable WordPress Emojicons."
+msgstr ""
+
+#: admin.php:107
+msgid "Remove jQuery Migrate."
+msgstr ""
+
+#: admin.php:119
+msgid "Disable WordPress Shortlinks."
+msgstr ""
+
+#: admin.php:131
+msgid "Disable JavaScript Query Strings."
+msgstr ""
+
+#: admin.php:143
+msgid ""
+"Move Scripts to Footer. <span style='color:red'>(Use With Caution!)</span>"
+msgstr ""
+
+#: admin.php:155
+msgid ""
+"Enable the ASYNC Attributes for Scripts. <span style='color:red'>(Use With "
+"Caution!)</span>"
+msgstr ""
+
+#: admin.php:167
+msgid "Enable Lazy Load Feature for Images."
+msgstr ""
+
+#: admin.php:179
+msgid "Enable Browser Cache Feature."
+msgstr ""
+
+#: admin.php:191
+msgid ""
+"Disable WP Embed Feature. <span style='color:red'>(Use With Caution!)</span>"
+msgstr ""
